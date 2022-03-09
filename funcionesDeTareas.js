@@ -31,4 +31,4 @@ let archivoTareas = {
 
 module.exports = archivoTareas;
 
-console.log(); 
+console.table();
