@@ -31,4 +31,5 @@ let archivoTareas = {
 
 module.exports = archivoTareas;
 
-console.table();
+console.table(); 
+
